@@ -10,7 +10,6 @@ public class DTO {
     private int idade;
     private String cpf;
 
-   // Contrutor padrão e com parâmetros
     public DTO(String id, String nome, int idade, String cpf) {
         this.id = id;
         this.nome = nome;
